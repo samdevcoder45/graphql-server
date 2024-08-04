@@ -4,7 +4,7 @@ import {  v1 as uuid} from "uuid";
 import { GraphQLError } from "graphql";
 
 
-let persons=[
+let persons = [
     {
         name: "Arto Hellas",
         phone: "040-123543",
